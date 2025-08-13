@@ -30,6 +30,18 @@ export const AboutSection = () => {
                                 Review and Download CV
                             </a>
                         </div>
+                        <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
+                            <a href="https://leetcode.com/aryangupta02092002" target="_blank" className="cosmic-button">
+                                Leetcode
+                            </a>
+                            <a href="https://www.codechef.com/users/aryangupta0209" target="_blank" className="cosmic-button">
+                                Codechef
+                            </a>
+                            <a href="https://auth.geeksforgeeks.org/user/aryangupta02092002/profile" target="_blank" className="cosmic-button">
+                                GeeksforGeeks
+                            </a>
+                            
+                        </div>
                     </div>
 
                     <div className="grid grid-cols-1 gap-6">

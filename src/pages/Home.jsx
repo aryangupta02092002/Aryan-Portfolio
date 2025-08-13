@@ -8,6 +8,7 @@ import { ProjectsSection } from "../components/ProjectsSection";
 import { ExperienceSection } from "../components/ExperienceSection";
 import { ContactSection } from "../components/ContactSection";
 import { AandCSection } from "../components/AandCSection";
+import { Footer } from "../components/Footer";
 
 export const Home = () => {
   return (
@@ -36,6 +37,7 @@ export const Home = () => {
 
 
       {/* Footer */}
+      <Footer />
     </div>
   );
 }
