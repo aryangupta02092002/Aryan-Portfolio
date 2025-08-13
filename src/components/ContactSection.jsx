@@ -79,13 +79,13 @@ export const ContactSection = () => {
                                 <a href="https://www.linkedin.com/in/aryan-gupta-1bb108192/" target="_blank">
                                     <Linkedin />
                                 </a>
-                                <a href="https://www.linkedin.com/in/aryan-gupta-1bb108192/" target="_blank">
+                                <a href="https://www.instagram.com/the_aryan_gupta?igsh=MWhnY3B0MmZ6N2Q2cg==" target="_blank">
                                     <Instagram />
                                 </a>
-                                <a href="https://www.linkedin.com/in/aryan-gupta-1bb108192/" target="_blank">
+                                <a href="https://www.facebook.com/share/1DrE1AGqA9/" target="_blank">
                                     <Facebook />
                                 </a>
-                                <a href="https://www.linkedin.com/in/aryan-gupta-1bb108192/" target="_blank">
+                                <a href="https://x.com/the_aryan__g?t=DlTxKrBr2b2ltpatD_VdaQ&s=09" target="_blank">
                                     <Twitter />
                                 </a>
                             </div>
