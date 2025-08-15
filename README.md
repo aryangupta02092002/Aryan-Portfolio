@@ -1,7 +1,8 @@
 # 🚀 Portfolio Website
 
 A modern, responsive portfolio website built with **ReactJS**, **Vite**, **TailwindCSS**, **EmailJS**, and **Lucide-React** icons. This site showcases my projects, skills, and experience in a sleek, performance-focused design.
-Check it out here! ➡️ [Aryan_Portfolio](https://aryan-portfolio-6bpov8m0f-aryan-guptas-projects-fb705294.vercel.app/#hero)
+
+Check it out here! ➡️ **[Aryan_Portfolio]**(https://aryan-portfolio-6bpov8m0f-aryan-guptas-projects-fb705294.vercel.app/#hero)
 
 ## ✨ Features
 - **⚡ Fast & Lightweight** – Powered by [Vite](https://vitejs.dev/) for instant development and optimized builds.
