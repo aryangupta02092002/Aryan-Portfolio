@@ -20,7 +20,7 @@ export const HeroSection = () => {
                     I engineer cosmic-level web and mobile experiences with modern tech stacks, 
                     backed by a strong grasp of Data Structures and Algorithms (1600+ LeetCode rating).
                     Currently an Application Developer at IBM, I bring hands-on expertise in Android (Kotlin), 
-                    full-stack Web Development, Streamlit, C++, and SAP ABAP (S/4 HANA).
+                    Full-Stack Web Development, Streamlit, C++, and SAP ABAP (S/4 HANA).
                 </p>
 
                 <div className="pt-4 opacity-0 animate-fade-in-delay-4">
