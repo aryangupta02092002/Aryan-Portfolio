@@ -1,14 +1,14 @@
 import { ArrowRight, Github } from "lucide-react";
 
 const projects = [
-    {
-        id: 1,
+    { 
+        id: 12,
         title: "Portfolio",
-        description: "Project on the development of portfolio. This app showcases your personal and professional details including skills, projects, experience, and contact info – all in one place.",
-        image: "/projects/Portfolio.jpeg",
-        tags: ["Kotlin", "MVVM", "Fragments"],
-        demoUrl: "#",
-        githubUrl: "https://github.com/aryangupta02092002/Portfolio",
+        description: "Built with NextJS and Convex, implements dynamic bill splitting and automated distribution, while Gemini AI generates spending insights from predefined prompts and sends them through email notifications",
+        image: "/projects/splitai.png", 
+        tags: ["Next JS", "Convex", "Inngest", "Gemini AI", "Clerk"],
+        demoUrl: "https://split-ai-three.vercel.app/",
+        githubUrl: "https://github.com/aryangupta02092002/Split-Ai",
     },
     {
         id: 2,
