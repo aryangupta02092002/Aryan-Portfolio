@@ -2,9 +2,9 @@ import { ArrowRight, Github } from "lucide-react";
 
 const projects = [
     { 
-        id: 12,
-        title: "Portfolio",
-        description: "Built with NextJS and Convex, implements dynamic bill splitting and automated distribution, while Gemini AI generates spending insights from predefined prompts and sends them through email notifications",
+        id: 1,
+        title: "Split AI: Split your bill easily",
+        description: " Built with NextJS and Convex, implements dynamic bill splitting and automated distribution, while Gemini AI generates spending insights from predefined prompts and sends them through email notifications",
         image: "/projects/splitai.png", 
         tags: ["Next JS", "Convex", "Inngest", "Gemini AI", "Clerk"],
         demoUrl: "https://split-ai-three.vercel.app/",
