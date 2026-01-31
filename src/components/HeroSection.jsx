@@ -18,7 +18,7 @@ export const HeroSection = () => {
                 </h1>
                 <p className="text-base md:text-l text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
                     I engineer cosmic-level web and mobile experiences with modern tech stacks, 
-                    backed by a strong grasp of Data Structures and Algorithms (1600+ LeetCode rating).
+                    backed by a strong grasp of Data Structures and Algorithms (Ranked in top 15% and 1600+ LeetCode rating).
                     Currently an Application Developer at IBM, I bring hands-on expertise in Android (Kotlin), 
                     Full-Stack Web Development, Streamlit, C++, and SAP ABAP (S/4 HANA).
                 </p>
