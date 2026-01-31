@@ -22,13 +22,13 @@ const projects = [
     },
     {
         id: 3,
-        title: "Us: Chatting Web Application",
+        title: "Pixxential: Creative Imaging",
         description:
-        "User Authentication, sending a message with timestamp, emojis, user profile update, interactive navigation bar, among others. Utilizes Socket.io for real-time chat functionality.",
-        image: "/projects/Us_chatting.png",
-        tags: ["ReactJS", "Node.js", "ExpressJS", "CSS", "MongoDB", "MaterialUI", "Firebase", "Socket.io"],
-        demoUrl: "#",
-        githubUrl: "https://github.com/aryangupta02092002/Us-Chatting-Site",
+        "Designed and implemented Pixxential, an image editing web application using Next.js, shadcn/ui, Convex, ImageKit, and Fabric.js, supporting cropping, background removal, and background manipulation.",
+        image: "/projects/pixxential.png",
+        tags: ["Next JS", "Convex", "Shadcn UI", "Imagekit", "Fabric.js"],
+        demoUrl: "https://pixxential.vercel.app/",
+        githubUrl: "https://github.com/aryangupta02092002/Pixxential",
     },
 ]
 
